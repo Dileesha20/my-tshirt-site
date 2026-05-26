@@ -1,0 +1,42 @@
+body {
+  margin: 0;
+  font-family: Arial;
+  background: black;
+  color: white;
+}
+
+/* NAV */
+.nav {
+  display: flex;
+  justify-content: space-between;
+  padding: 15px 20px;
+  background: #111;
+}
+
+/* HERO */
+.hero {
+  text-align: center;
+  padding: 100px 20px;
+}
+
+.hero h1 {
+  font-size: 40px;
+}
+
+/* BUTTON */
+.btn {
+  background: white;
+  color: black;
+  padding: 10px 20px;
+  text-decoration: none;
+  border-radius: 5px;
+  display: inline-block;
+}
+
+/* CARDS */
+.card {
+  background: #111;
+  padding: 20px;
+  margin: 10px;
+  border-radius: 10px;
+}
